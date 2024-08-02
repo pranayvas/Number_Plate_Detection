@@ -1,5 +1,7 @@
 Install Dependancies 
-
-pip install opencv-python
+<br>
+pip install opencv-python 
+<br>
 pip install Pillow
+<br>
 pip install pytesseract
